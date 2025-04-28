@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on cool art stuff
+- 🔭 I’m currently working on cool art stuff.
 - 🌱 I’m currently learning coding.
-- 👯 I’m looking to collaborate on creative stuff
+- 👯 I’m looking to collaborate on creative stuff.
 - 🤔 I’m looking for help with building a portfolio website.
 <!--
 **nic-kyy/nic-kyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
